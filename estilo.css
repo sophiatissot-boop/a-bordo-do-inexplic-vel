@@ -9,3 +9,8 @@ main{
 
     max-width: 80%;
 }
+button{
+    background-color: olivedrab;
+    color: white;
+     padding: 10px;
+}
