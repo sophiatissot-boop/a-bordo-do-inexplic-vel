@@ -5,7 +5,7 @@ body{
     text-align:center;
     margin: 80px 0;
     font-size: 20px;
-    fot-family: ""
+   font-family: "Alan Sans", sans-serif;
 }
 main{
 
@@ -19,4 +19,12 @@ button{
 
 .img01{
     width:100%;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
 }
